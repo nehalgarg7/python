@@ -1,0 +1,32 @@
+What is Python?
+
+-> Python is simple and easy
+-> Free and Open Source
+-> High Level Language
+-> Developed by Guido Van Rossum
+-> Portable
+-> It is case senesitive means Apple and apple are two different variable.
+-> It is a implicit typed langugae, means here we don't have to write the datatypes explicity to the variable. It automatically understand the datatype.
+-> Python is an indentation laguage. 
+
+Python Character Set
+
+-> Letters - A to Z, a to z 
+-> Digits - 0 to 9
+-> Special Symbols - +-*/ etc.
+-> Whitespaces - Blank Space, tab, carriage return, newline, formfeed
+-> Other Characters - Python can process all ASCII and Unicode characters as part of data or literals
+
+## Rules for Identifiers
+1. Identifiers can be combination of uppercases and lowercase Letters, Digits or an underscore.
+2. An Identifiers cannot start with digit.
+3. We can't use special Symbols
+4. An Identifiers can be of any length.
+
+## Keywords
+if, else, elif, for, while, break, continue, def, return, class, try, except, raise, finally, import, from, as, with, True, False, None, and, or, not, in, is, global, nonlocal, lambda, yield, async, and await.
+
+## Punctuators
+These are Symbols to organize sentence structure in programming.
+(),{},@,[],#,-=,+=,/=,//=,=,etc.
+
